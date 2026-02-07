@@ -12,9 +12,10 @@ The study focuses on understanding how different derivative-based methods identi
 
 ##  Sample Results
 
+![1759313705198](https://github.com/user-attachments/assets/948167d6-66f9-4301-9b62-caddc80b9c6a)!![1759313704191](https://github.com/user-attachments/assets/0ba11d38-00ac-41f0-b38f-657894e7ed23)
 
-![1759313705125](https://githu![1759313704147](https://github.com/user-attachments/assets/496af06a-4eb5-4950-881c-b3ea63dc467d)
-b.com/user-attachments/assets/c4d75a7f-59d7-423c-8369-53fbf4364b04)
+
+
 
 ---
 
